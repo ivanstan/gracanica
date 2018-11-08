@@ -1,0 +1,25 @@
+Akumulacija:
+- površina sliva 104km2
+- visina brane 74,5m
+- kota krune brane 363,50mnm
+- dužina brane u kruni 8,0m
+- kota krune preliva 360,00mnm
+- kota normalnog uspora 360,00mnm
+- kota min. radnog nivoa 310,00mnm
+- korisna zapremina akumulacije 49,5 mil m3
+- najveća dubina akumulacije 67m
+
+Manastir Valjevska Gracanica
+- Kota 333mnm
+- Dimenzije:
+- Donja linija krova 18m
+- Gornja linija krova 12m
+- Visina krova 3m
+- Visina bez Kreta 13,7m
+- Visina male cupola gornje 2,3m
+- Visina kule 3,96m
+- Udaljenost od gornje krova do pocetka kule 4,64m
+- Visina kapele 6,79m
+- Duzina kapele 5,3m
+- Daljina crkve od obale ~56m
+
